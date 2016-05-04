@@ -5,6 +5,13 @@
 * 请不要改动别人的代码，别人的代码只是用来参考的
 * 不要一开始就看别人的代码，应该自己努力尝试解题，实在写不出来再看别人的代码
 
+## 相关网站
+
+* [题库网站](https://projecteuler.net/archives)
+* [中文翻译1](http://pe.spiritzhang.com/)
+* [中文翻译2](http://pe-cn.github.io/)
+* [官方论坛](http://projecteuler.chat/)
+
 ## 学习小组成员
 
 拼音简写 | 姓名
